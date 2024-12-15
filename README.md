@@ -1,2 +1,2 @@
-# AAABot
-Bot for the Dawn Pokemon Showdown server.
+# LudiBot
+Bot for Ludi :)
